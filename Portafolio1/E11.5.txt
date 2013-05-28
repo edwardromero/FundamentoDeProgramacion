@@ -1,0 +1,3 @@
+al arreglo de caracteres mes[], no se le espesifica el
+tamano, no se le puede insertar "ENERO" al arreglo mes[]
+porque ya fue inicialisado.

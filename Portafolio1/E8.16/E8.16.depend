@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1369412998 source:c:\users\desktop\documents\fundamento de programacion\portafolio1\e8.16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

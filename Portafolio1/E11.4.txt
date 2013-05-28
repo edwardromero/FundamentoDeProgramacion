@@ -1,0 +1,10 @@
+typedef struct
+{
+ int id;
+ char nombre[20];
+ char apellido[20];
+ char cedula[12];
+ int ahorros;
+ 
+
+}Cuentas;

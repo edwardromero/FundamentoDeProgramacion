@@ -1,0 +1,27 @@
+Alumnos:
+
+typedef struct
+{
+char nombre[10];
+char curso[10];
+int edad;
+struct direccion;
+int notas[10];
+
+}alumnos;
+
+Profesores
+
+typedef struct
+{
+char nombre[10];
+int id_asignatura[10];
+struct direccion;
+}profesores;
+
+struct AoP
+{
+profesores
+alumnos
+
+}

@@ -1,0 +1,1 @@
+buble sort, ya que cambia el primero con el segundo y luego el segundo con el 3ro
